@@ -1,0 +1,43 @@
+*{
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: darkgoldenrod;
+}
+
+ul, ol{
+    font-size: 22px;
+    color: black;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sub-img{
+    font-size: 70%;
+    text-align: center;
+}
+
+.desc{
+    font-size: 23px;
+    text-align: center;
+}
+
+h3{
+    color: darkgoldenrod;
+    font-size: 25px;
+}
+
+a{
+    color:darkgreen;
+}
+
